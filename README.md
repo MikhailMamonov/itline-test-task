@@ -1,2 +1,1 @@
-# itline-test-task
-ITLINE Test - Spring Boot CRUD
+# ITLINE Test - Spring Boot CRUD
